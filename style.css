@@ -75,3 +75,18 @@
     justify-content: center;
 }
 
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.frogpic-one {
+    padding: 16px;
+    width: 75%;
+}
+
+.frogpic-two {
+    padding: 16px;
+    width: 33%;
+}
